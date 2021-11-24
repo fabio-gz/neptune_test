@@ -7,4 +7,3 @@
 Final result:
 
 ![graph](./graph.png)
-<img src="./graph.png">
